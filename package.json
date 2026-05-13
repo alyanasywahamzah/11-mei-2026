@@ -1,0 +1,27 @@
+{
+  "name": "tugasyes",
+  "version": "1.0.0",
+  "description": "ini adalah aplikasi web sederhana dibuat menggunakan nodejs oleh aku",
+  "keywords": [
+    "iot"
+  ],
+  "homepage": "https://github.com/alyanasywahamzah/11-mei-2026#readme",
+  "bugs": {
+    "url": "https://github.com/alyanasywahamzah/11-mei-2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyanasywahamzah/11-mei-2026.git"
+  },
+  "license": "ISC",
+  "author": "Alya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "install": "^0.13.0"
+  }
+}
